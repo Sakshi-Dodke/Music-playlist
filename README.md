@@ -1,4 +1,4 @@
-Music Playlist App
+**Music Playlist App**
 
 Developed a React-based Music Playlist Organizer that enables users to create and manage their own playlists with ease. The app provides functionality to add new songs, display them in the playlist, and delete songs when no longer needed. Songs added to the playlist are stored in localStorage, ensuring that the playlist persists even after the page is refreshed.
 
